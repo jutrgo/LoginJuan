@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684052092460",
+    "firebase_url": "https://loginproyectosa.firebaseio.com",
+    "project_id": "loginproyectosa",
+    "storage_bucket": "loginproyectosa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684052092460:android:a4c558d27589dec3",
+        "android_client_info": {
+          "package_name": "es.ulpgc.juantrujillo.loginproyectosavanzados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684052092460-edv3qt2q220t0omcs0onddaumdbaf455.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJuqt1yOSFoKD7FVwXtm4L_tJ_tF9_Jxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
