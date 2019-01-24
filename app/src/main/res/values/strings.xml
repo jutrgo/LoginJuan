@@ -11,19 +11,15 @@
 
     <string name="mensaje_error_activity_login">Login error</string>
     <string name="mensaje_correcto_activity_login">Login correcto</string>
-    <string name="mensaje_correcto_crear_cuenta">Cuenta creada correctamente</string>
+
     <string name="mensaje_error_crear_cuenta">La cuenta no se ha podido crear</string>
-    <string name="mensaje_error_introducir_correo">Correo inválido o vacío</string>
-    <string name="mensaje_error_introducir_contraseña">Contraseña corta o vacía</string>
-    <string name="mensaje_error_introduzca_contraseña_diferente">La contraseña es diferente</string>
+
     <string name="mensaje_error_eliminar_usuario">Error al eliminar usuario</string>
     <string name="mensaje_correcto_eliminar_usuario">Usuario eliminado correctamente</string>
     <string name="botonGuardar">Guardar</string>
     <string name="botonEliminar">Eliminar</string>
     <string name="botonLogout">Salir</string>
 
-
-    <string name="botonAtras">Atrás</string>
     <string name="mensaje_error_obtener_datos_usuario">Error al obtener los datos de usuario</string>
     <string name="mensaje_actualizar_datos_usuario">Datos actualizados correctamente</string>
     <string name="hintName">Nombre</string>
